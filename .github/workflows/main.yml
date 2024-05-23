@@ -5,3 +5,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: leechangjun3/gitaction@main
+        with:
+          x: 12
+          y: 3
+
